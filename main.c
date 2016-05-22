@@ -117,6 +117,7 @@ int main()
 	hardware_init(); //hardware initial
 	sei(); // enable interrupt
 	print("hello");
+
 }
 
 
